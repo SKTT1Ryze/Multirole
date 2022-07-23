@@ -1,6 +1,7 @@
 #include "DLOpen.hpp"
 
 #include <stdexcept> // std::runtime_error
+#include <string>
 
 // "Native" functions below modified from implementations found in SDL2 library
 // Author: Sam Lantinga <slouken@libsdl.org>
